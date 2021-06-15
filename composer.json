@@ -9,9 +9,6 @@
     "irc": "",
     "issues": ""
   },
-  "require": {
-    "typo3-ter/routing": ">= 0.4.0"
-  },
   "autoload": {
     "psr-4": {
       "Sinso\\Translationapi\\": "Classes/"
